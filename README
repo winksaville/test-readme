@@ -1,5 +1,6 @@
 # test-readme
-Test if a README file without the md extension supports markdown
+Q: Test if a README file without the md extension supports markdown.
+A: No, the md extension is needed for github to render the markdown.
 
 [Link to this file WITHOUT md extension](https://github.com/winksaville/test-readme/blob/master/README)
 
